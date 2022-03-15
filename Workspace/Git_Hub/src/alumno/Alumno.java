@@ -5,6 +5,8 @@ public class Alumno {
 	private String apellido;
 	private int edad;
 	private int id;
+	private String email;
+	
 	public String getNombre() {
 		return nombre;
 	}
